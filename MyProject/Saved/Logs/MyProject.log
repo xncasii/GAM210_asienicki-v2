@@ -1291,3 +1291,243 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.09.22-07.28.31:338][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 356.906067
 [2025.09.22-07.28.32:336][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.22-07.28.32:336][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 357.568726, Update Interval: 306.978363
+[2025.09.22-07.29.36:847][129]Cmd: TRANSACTION UNDO
+[2025.09.22-07.29.36:847][129]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.29.37:768][175]Cmd: DELETE
+[2025.09.22-07.29.37:768][175]Cmd: ACTOR DELETE
+[2025.09.22-07.29.37:769][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-07.29.37:782][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.09.22-07.29.37:784][175]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.09.22-07.29.57:216][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.29.57:291][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.22-07.29.57:304][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.09.22-07.29.57:317][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.22-07.29.57:326][325]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/O0/Y5JYHY845DOQFT0FCWTSBH
+[2025.09.22-07.29.57:326][325]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/Y5JYHY845DOQFT0FCWTSBHD4ADC3644006960317EF84B1F69D0713.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/O0/Y5JYHY845DOQFT0FCWTSBH.uasset'
+[2025.09.22-07.29.57:346][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.662 ms (total: 518.310 ms)
+[2025.09.22-07.29.57:400][325]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-07.29.57:400][325]LogContentValidation: Enabled validators:
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.29.57:400][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.29.57:400][325]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.22-07.29.57:422][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-07.29.58:408][385]Cmd: DUPLICATE
+[2025.09.22-07.29.58:408][385]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.30.31:895][352]Cmd: TRANSACTION UNDO
+[2025.09.22-07.30.31:895][352]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.30.32:199][365]Cmd: TRANSACTION UNDO
+[2025.09.22-07.30.32:199][365]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.30.32:789][396]Cmd: TRANSACTION UNDO
+[2025.09.22-07.30.32:789][396]LogEditorTransaction: Undo Scale Elements
+[2025.09.22-07.30.48:752][338]Cmd: DUPLICATE
+[2025.09.22-07.30.48:752][338]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.31.03:051][179]Cmd: TRANSACTION UNDO
+[2025.09.22-07.31.03:052][179]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.22-07.31.03:463][190]Cmd: TRANSACTION UNDO
+[2025.09.22-07.31.03:463][190]LogEditorTransaction: Undo Set Rotation
+[2025.09.22-07.31.11:971][692]Cmd: TRANSACTION UNDO
+[2025.09.22-07.31.11:971][692]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.22-07.31.12:998][740]Cmd: TRANSACTION UNDO
+[2025.09.22-07.31.12:998][740]LogEditorTransaction: Undo Set Rotation
+[2025.09.22-07.33.02:865][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.33.02:934][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.22-07.33.02:947][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.09.22-07.33.02:960][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.22-07.33.02:971][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/4/3R/FBA0Z00NHOZRLY2VS6QWS5
+[2025.09.22-07.33.02:972][155]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/FBA0Z00NHOZRLY2VS6QWS5D24B3ACB4D6619087F6AECB8BE9D9CDB.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/3R/FBA0Z00NHOZRLY2VS6QWS5.uasset'
+[2025.09.22-07.33.02:981][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/O0/Y5JYHY845DOQFT0FCWTSBH
+[2025.09.22-07.33.02:981][155]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/Y5JYHY845DOQFT0FCWTSBH65C67ECB46D538D49B2278B76EC78B7B.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/O0/Y5JYHY845DOQFT0FCWTSBH.uasset'
+[2025.09.22-07.33.02:990][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/5D/HMY4FNTPVG11DMKP2DJ7CN
+[2025.09.22-07.33.02:990][155]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/HMY4FNTPVG11DMKP2DJ7CN771451634ED9468087097EA9CCF4A3BE.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/5D/HMY4FNTPVG11DMKP2DJ7CN.uasset'
+[2025.09.22-07.33.02:997][155]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/BW/KABQ8G5G2KSJXJG33ULFDQ
+[2025.09.22-07.33.02:997][155]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/KABQ8G5G2KSJXJG33ULFDQ602687A3436EA54878544683D9C9A012.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/BW/KABQ8G5G2KSJXJG33ULFDQ.uasset'
+[2025.09.22-07.33.03:018][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.625 ms (total: 670.935 ms)
+[2025.09.22-07.33.03:083][155]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.22-07.33.03:083][155]LogContentValidation: Enabled validators:
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.33.03:083][155]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.33.03:083][155]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.22-07.33.03:105][155]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-07.33.05:088][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.09.22-07.33.15:144][871]Cmd: DUPLICATE
+[2025.09.22-07.33.15:145][871]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.33.29:684][734]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.29:685][734]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.33.30:068][750]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.30:068][750]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.33.30:631][780]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.30:631][780]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.33.31:118][809]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.31:118][809]LogEditorTransaction: Undo Set Rotation
+[2025.09.22-07.33.31:617][839]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.31:617][839]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.33.32:718][905]Cmd: TRANSACTION UNDO
+[2025.09.22-07.33.32:718][905]LogEditorTransaction: Undo Duplicate Elements
+[2025.09.22-07.33.41:187][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 666.754456
+[2025.09.22-07.33.41:304][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-07.33.41:304][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.854553, Update Interval: 336.592926
+[2025.09.22-07.33.46:850][738]Cmd: DUPLICATE
+[2025.09.22-07.33.46:850][738]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.33.59:570][487]Cmd: DUPLICATE
+[2025.09.22-07.33.59:570][487]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.34.13:204][288]Cmd: DUPLICATE
+[2025.09.22-07.34.13:204][288]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.34.50:733][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.34.50:803][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.09.22-07.34.50:815][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.09.22-07.34.50:826][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.09.22-07.34.50:836][531]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OQ/Y8HFBY15O8V0YGEGJ47G0S
+[2025.09.22-07.34.50:836][531]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/Y8HFBY15O8V0YGEGJ47G0S45DF6D304021EF4D177AB8819F9F037C.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/OQ/Y8HFBY15O8V0YGEGJ47G0S.uasset'
+[2025.09.22-07.34.50:845][531]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/RH/IQVG99LILBKMJF1TBZ6MO4
+[2025.09.22-07.34.50:845][531]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/IQVG99LILBKMJF1TBZ6MO47975A02C4C6338BF2DF5C18B0A10ABF5.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/RH/IQVG99LILBKMJF1TBZ6MO4.uasset'
+[2025.09.22-07.34.50:852][531]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/0W/Z1JR4PHU6RZX0L95QD09F7
+[2025.09.22-07.34.50:852][531]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/Z1JR4PHU6RZX0L95QD09F729D5F3864E10B69C637CC58E02B13CB2.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/0W/Z1JR4PHU6RZX0L95QD09F7.uasset'
+[2025.09.22-07.34.50:873][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.734 ms (total: 810.670 ms)
+[2025.09.22-07.34.50:938][531]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.22-07.34.50:938][531]LogContentValidation: Enabled validators:
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.34.50:938][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.34.50:939][531]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.22-07.34.50:965][531]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-07.35.03:018][249]Cmd: DUPLICATE
+[2025.09.22-07.35.03:018][249]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.36.53:923][747]Cmd: DUPLICATE
+[2025.09.22-07.36.53:923][747]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.38.08:879][177]Cmd: DUPLICATE
+[2025.09.22-07.38.08:879][177]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.38.58:351][ 93]Cmd: DUPLICATE
+[2025.09.22-07.38.58:351][ 93]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.39.23:200][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1008.765320
+[2025.09.22-07.39.23:283][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-07.39.23:283][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1008.831970, Update Interval: 303.960693
+[2025.09.22-07.39.34:154][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.39.34:239][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.09.22-07.39.34:253][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.22-07.39.34:268][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.09.22-07.39.34:280][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/ZS/D7AEBXBGIA741P74VD4O21
+[2025.09.22-07.39.34:281][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/D7AEBXBGIA741P74VD4O2151D1DB32442C1DBBFF8E9087FC482536.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/ZS/D7AEBXBGIA741P74VD4O21.uasset'
+[2025.09.22-07.39.34:290][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/YL/ZLUOAEGYX5Z5UBJU9EY8PZ
+[2025.09.22-07.39.34:291][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/ZLUOAEGYX5Z5UBJU9EY8PZ7C16854E4C065A3FD739348899F759F0.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/YL/ZLUOAEGYX5Z5UBJU9EY8PZ.uasset'
+[2025.09.22-07.39.34:299][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/30/5SS7AT96QYVC7J1IKC83BZ
+[2025.09.22-07.39.34:299][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/5SS7AT96QYVC7J1IKC83BZ352161904B819E4444C65A828BF33473.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/30/5SS7AT96QYVC7J1IKC83BZ.uasset'
+[2025.09.22-07.39.34:308][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/G7/ZAF2Z61MM5CB6CH9WO80B0
+[2025.09.22-07.39.34:308][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/ZAF2Z61MM5CB6CH9WO80B0140632964B1944C69E145CAC51AD4AB6.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/G7/ZAF2Z61MM5CB6CH9WO80B0.uasset'
+[2025.09.22-07.39.34:316][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/TP/XJA4I01QRNZLDJAE4A5CL4
+[2025.09.22-07.39.34:318][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/XJA4I01QRNZLDJAE4A5CL40200770844341D2A270CC6BDF9955528.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/TP/XJA4I01QRNZLDJAE4A5CL4.uasset'
+[2025.09.22-07.39.34:325][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/YY/LAKOCORZE12JEAQPV3R5GJ
+[2025.09.22-07.39.34:326][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/LAKOCORZE12JEAQPV3R5GJDC9968CC481BDEA6BB730D985A9F3205.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/YY/LAKOCORZE12JEAQPV3R5GJ.uasset'
+[2025.09.22-07.39.34:333][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/E/S9/5F9DY81NF7EBW6TZ2ZFH93
+[2025.09.22-07.39.34:334][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/5F9DY81NF7EBW6TZ2ZFH930F7E47E34C4561AB0A33A78797ADA2C5.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/S9/5F9DY81NF7EBW6TZ2ZFH93.uasset'
+[2025.09.22-07.39.34:342][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/98/80CTQ73F8YOOY905MT004Z
+[2025.09.22-07.39.34:343][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/80CTQ73F8YOOY905MT004Z175FD3CA403FB3C93DD6838611D29E10.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/98/80CTQ73F8YOOY905MT004Z.uasset'
+[2025.09.22-07.39.34:351][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/8/EB/2QHXKKC6HPMS3FN3EZL9AF
+[2025.09.22-07.39.34:352][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/2QHXKKC6HPMS3FN3EZL9AF9C4F6DE04BAB2D418A348695D1E61CA8.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/8/EB/2QHXKKC6HPMS3FN3EZL9AF.uasset'
+[2025.09.22-07.39.34:360][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/7/GG/4V47Q3TNYGV840NV10DRJV
+[2025.09.22-07.39.34:361][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/4V47Q3TNYGV840NV10DRJVA3386C0145FE8298A4615DB5368EB86C.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/GG/4V47Q3TNYGV840NV10DRJV.uasset'
+[2025.09.22-07.39.34:369][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/8/OA/55KLILP88LYIHVMBAKRPQU
+[2025.09.22-07.39.34:369][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/55KLILP88LYIHVMBAKRPQU86E915DE4CE169022EC2618A91358D0F.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/8/OA/55KLILP88LYIHVMBAKRPQU.uasset'
+[2025.09.22-07.39.34:378][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/Y1/THALKG75QKZODC4ACYWE0B
+[2025.09.22-07.39.34:378][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/THALKG75QKZODC4ACYWE0BE81914A5424D8E5CDB4635ABD57D7939.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/Y1/THALKG75QKZODC4ACYWE0B.uasset'
+[2025.09.22-07.39.34:386][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/WI/POUBS447TT29RSG0Q6B4PW
+[2025.09.22-07.39.34:386][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/POUBS447TT29RSG0Q6B4PW250D8DFC4F68836C8AF1548570E9D24A.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/WI/POUBS447TT29RSG0Q6B4PW.uasset'
+[2025.09.22-07.39.34:394][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/0W/Z1JR4PHU6RZX0L95QD09F7
+[2025.09.22-07.39.34:395][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/Z1JR4PHU6RZX0L95QD09F761774A054C1E4B3DEF3572B9BEE2C274.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/0W/Z1JR4PHU6RZX0L95QD09F7.uasset'
+[2025.09.22-07.39.34:402][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/ED/A4XHURLCXKZ5TCX5QB5VCI
+[2025.09.22-07.39.34:402][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/A4XHURLCXKZ5TCX5QB5VCI15D2E761446345015870E79A4ADCE639.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/ED/A4XHURLCXKZ5TCX5QB5VCI.uasset'
+[2025.09.22-07.39.34:410][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/E/53/ILGJ26N67M2JXDUYUVB6HU
+[2025.09.22-07.39.34:410][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/ILGJ26N67M2JXDUYUVB6HU87C125E945F01A582B58ED91A36C6B1F.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/53/ILGJ26N67M2JXDUYUVB6HU.uasset'
+[2025.09.22-07.39.34:418][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/DY/7ONCHH1SSOE555SCM1H7FR
+[2025.09.22-07.39.34:418][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/7ONCHH1SSOE555SCM1H7FR739C6E0C448A72498D42FD9576C3B6A9.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/DY/7ONCHH1SSOE555SCM1H7FR.uasset'
+[2025.09.22-07.39.34:428][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/D/94/LXZMIG7VPCT7OVCMY5IQNI
+[2025.09.22-07.39.34:428][209]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/LXZMIG7VPCT7OVCMY5IQNIBE4110BA436ED44B1AEE009E2AE3CABB.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/94/LXZMIG7VPCT7OVCMY5IQNI.uasset'
+[2025.09.22-07.39.34:447][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.626 ms (total: 1.10 sec)
+[2025.09.22-07.39.34:526][209]LogContentValidation: Display: Starting to validate 18 assets
+[2025.09.22-07.39.34:526][209]LogContentValidation: Enabled validators:
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.39.34:526][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.39.34:526][209]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.22-07.39.34:549][209]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-07.39.35:252][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.09.22-07.40.42:932][254]Cmd: TRANSACTION UNDO
+[2025.09.22-07.40.42:932][254]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.22-07.40.43:565][277]Cmd: TRANSACTION UNDO
+[2025.09.22-07.40.43:565][277]LogEditorTransaction: Undo Set Rotation
+[2025.09.22-07.40.57:248][ 83]Cmd: TRANSACTION UNDO
+[2025.09.22-07.40.57:248][ 83]LogEditorTransaction: Undo Clicking on Elements
+[2025.09.22-07.40.57:731][ 97]Cmd: TRANSACTION UNDO
+[2025.09.22-07.40.57:731][ 97]LogEditorTransaction: Undo Set Rotation
+[2025.09.22-07.42.18:637][851]Cmd: DELETE
+[2025.09.22-07.42.18:637][851]Cmd: ACTOR DELETE
+[2025.09.22-07.42.18:639][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.22-07.42.18:656][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.09.22-07.42.18:660][851]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.09.22-07.42.23:807][151]Cmd: TRANSACTION UNDO
+[2025.09.22-07.42.23:807][151]LogEditorTransaction: Undo Scale Elements
+[2025.09.22-07.42.32:384][643]Cmd: TRANSACTION UNDO
+[2025.09.22-07.42.32:384][643]LogEditorTransaction: Undo Move Elements
+[2025.09.22-07.42.51:133][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.42.51:204][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.09.22-07.42.51:216][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.09.22-07.42.51:228][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.09.22-07.42.51:238][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/0/ZO/PAU30IPJGAHDO2VB45R774
+[2025.09.22-07.42.51:239][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/PAU30IPJGAHDO2VB45R774655EA8C74F3EA7ABCAD50B9C06E1B35D.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/ZO/PAU30IPJGAHDO2VB45R774.uasset'
+[2025.09.22-07.42.51:247][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/W5/8VV3PDOIYDTQUZP16RT13R
+[2025.09.22-07.42.51:248][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/8VV3PDOIYDTQUZP16RT13R2F6602DE440DB96498A40A94E530CAF9.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/W5/8VV3PDOIYDTQUZP16RT13R.uasset'
+[2025.09.22-07.42.51:255][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/30/5SS7AT96QYVC7J1IKC83BZ
+[2025.09.22-07.42.51:256][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/5SS7AT96QYVC7J1IKC83BZ2995FA0E4044A5F2D7F4DE9295709BE4.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/30/5SS7AT96QYVC7J1IKC83BZ.uasset'
+[2025.09.22-07.42.51:263][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/G7/ZAF2Z61MM5CB6CH9WO80B0
+[2025.09.22-07.42.51:264][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/ZAF2Z61MM5CB6CH9WO80B01FAEF307426E8DDE9E2070BCEDEACB76.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/G7/ZAF2Z61MM5CB6CH9WO80B0.uasset'
+[2025.09.22-07.42.51:271][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/YY/LAKOCORZE12JEAQPV3R5GJ
+[2025.09.22-07.42.51:272][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/LAKOCORZE12JEAQPV3R5GJ6C8B13F74365B830105B7880BEC003DE.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/YY/LAKOCORZE12JEAQPV3R5GJ.uasset'
+[2025.09.22-07.42.51:279][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/E/S9/5F9DY81NF7EBW6TZ2ZFH93
+[2025.09.22-07.42.51:280][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/5F9DY81NF7EBW6TZ2ZFH936D2AD00B4F411CBA6C88B7B0CCA92081.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/S9/5F9DY81NF7EBW6TZ2ZFH93.uasset'
+[2025.09.22-07.42.51:287][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/N3/UPJMZ9PYKK4DRPHY0QNB5O
+[2025.09.22-07.42.51:288][742]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/UPJMZ9PYKK4DRPHY0QNB5O96D0285146947C553077BAA250EB35F6.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/N3/UPJMZ9PYKK4DRPHY0QNB5O.uasset'
+[2025.09.22-07.42.51:303][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.689 ms (total: 1.27 sec)
+[2025.09.22-07.42.51:366][742]LogContentValidation: Display: Starting to validate 7 assets
+[2025.09.22-07.42.51:366][742]LogContentValidation: Enabled validators:
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.42.51:366][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.42.51:366][742]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.22-07.43.27:042][847]Cmd: DUPLICATE
+[2025.09.22-07.43.27:042][847]Cmd: ACTOR DUPLICATE
+[2025.09.22-07.43.28:358][922]Cmd: TRANSACTION UNDO
+[2025.09.22-07.43.28:358][922]LogEditorTransaction: Undo Duplicate Elements
+[2025.09.22-07.43.54:548][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-07.43.54:626][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.22-07.43.54:642][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.22-07.43.54:659][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.22-07.43.54:669][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/36/SSKBZ62XV8NZQZMKS6N2U1
+[2025.09.22-07.43.54:671][446]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SSKBZ62XV8NZQZMKS6N2U1BE41EA6B4C82C38A8F48AB99952DA105.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/36/SSKBZ62XV8NZQZMKS6N2U1.uasset'
+[2025.09.22-07.43.54:679][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/K3/14TQV123RU62NK5JOEYI72
+[2025.09.22-07.43.54:681][446]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/14TQV123RU62NK5JOEYI72B83028B3441EA58C806CA19E02BBE49D.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/K3/14TQV123RU62NK5JOEYI72.uasset'
+[2025.09.22-07.43.54:703][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.320 ms (total: 1.42 sec)
+[2025.09.22-07.43.54:788][446]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.22-07.43.54:788][446]LogContentValidation: Enabled validators:
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-07.43.54:788][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-07.43.54:788][446]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
