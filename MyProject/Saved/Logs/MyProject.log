@@ -2852,3 +2852,222 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.09.23-19.54.22:995][963]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2025.09.23-19.54.22:995][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.23-19.54.23:053][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.23-19.54.58:852][121]Cmd: DUPLICATE
+[2025.09.23-19.54.58:852][121]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.55.24:677][650]Cmd: EDIT CUT
+[2025.09.23-19.55.24:681][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.23-19.55.24:698][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.23-19.55.24:700][650]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.09.23-19.55.25:854][719]Cmd: TRANSACTION UNDO
+[2025.09.23-19.55.25:854][719]LogEditorTransaction: Undo Cut
+[2025.09.23-19.55.26:957][769]Cmd: DUPLICATE
+[2025.09.23-19.55.26:957][769]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.55.26:957][769]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.09.23-19.56.31:782][596]Cmd: DELETE
+[2025.09.23-19.56.31:782][596]Cmd: ACTOR DELETE
+[2025.09.23-19.56.31:783][596]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.23-19.56.31:803][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.23-19.56.31:807][596]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.09.23-19.56.54:238][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.09.23-19.56.54:243][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-19.56.54:314][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/TP/XJA4I01QRNZLDJAE4A5CL4
+[2025.09.23-19.56.54:315][916]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/XJA4I01QRNZLDJAE4A5CL483D7F3274AB893F4D49BF0A4E3C56570.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/TP/XJA4I01QRNZLDJAE4A5CL4.uasset'
+[2025.09.23-19.56.54:323][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/7/4X/SJU8D66KV56O6EB9ED007V
+[2025.09.23-19.56.54:324][916]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SJU8D66KV56O6EB9ED007VD157901044BE6925921803AFA3237B94.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/4X/SJU8D66KV56O6EB9ED007V.uasset'
+[2025.09.23-19.56.54:332][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/0/R1/PNIWAN87OXH2A7VGSXZKM6
+[2025.09.23-19.56.54:332][916]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/PNIWAN87OXH2A7VGSXZKM6C3D3B2C5446F1B2B4FA7F298B1237C81.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/R1/PNIWAN87OXH2A7VGSXZKM6.uasset'
+[2025.09.23-19.56.54:339][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/4/C3/D0EZYD2I35RYCJYQELMAEG
+[2025.09.23-19.56.54:339][916]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/D0EZYD2I35RYCJYQELMAEG402F7D08487465DA7ED34FACB8FA17E7.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/C3/D0EZYD2I35RYCJYQELMAEG.uasset'
+[2025.09.23-19.56.54:348][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/WU/J4MPW2TNSRV04C11AUTYJP
+[2025.09.23-19.56.54:348][916]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/J4MPW2TNSRV04C11AUTYJP50CE0DFF49D175A966E8768D64BCB2B0.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/WU/J4MPW2TNSRV04C11AUTYJP.uasset'
+[2025.09.23-19.56.54:359][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.523 ms (total: 3.81 sec)
+[2025.09.23-19.56.54:426][916]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.23-19.56.54:426][916]LogContentValidation: Enabled validators:
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-19.56.54:426][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-19.56.54:426][916]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.23-19.56.54:450][916]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.23-19.57.01:262][323]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-19.57.01:268][323]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.23-19.57.01:268][323]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.09.23-19.57.01:269][323]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 943 us (total: 19.770 ms)
+[2025.09.23-19.57.01:269][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-19.57.01:269][323]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.09.23-19.57.01:274][323]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.23-19.57.01:275][323]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.072 ms (total: 28.199 ms)
+[2025.09.23-19.57.01:275][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006525s)
+[2025.09.23-19.57.01:275][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006553s)
+[2025.09.23-19.57.01:298][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.23-19.57.01:299][323]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.09.23-19.57.01:301][323]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.23-19.57.01:301][323]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.23-19.57.01:301][323]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.23-19.57.01:301][323]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.23-19.57.01:302][323]LogWorldPartition: Display: WorldPartition initialize took 1.469 ms (total: 804.391 ms)
+[2025.09.23-19.57.01:302][323]LogPlayLevel: PIE: World Init took: (0.003229s)
+[2025.09.23-19.57.01:303][323]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-19.57.01:303][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-19.57.01:303][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-19.57.01:303][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-19.57.01:303][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-19.57.01:303][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-19.57.01:305][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-19.57.01:373][323]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.23-19.57.01:373][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-19.57.01:373][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-19.57.01:373][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-19.57.01:373][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.09.23-19.57.01:373][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.09.23-19.57.01:376][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.09.23-19.57.01:376][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.09.23-19.57.01:376][323]LogInit: FAudioDevice initialized with ID 18.
+[2025.09.23-19.57.01:376][323]LogAudio: Display: Audio Device (ID: 18) registered with world 'Lvl_TopDown'.
+[2025.09.23-19.57.01:376][323]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.23-19.57.01:384][323]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.09.23-19.57.01:388][323]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 60) at 2025.09.23-14.57.01
+[2025.09.23-19.57.01:388][323]LogWorld: Bringing up level for play took: 0.002757
+[2025.09.23-19.57.01:390][323]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.09.23-19.57.01:395][323]PIE: Server logged in
+[2025.09.23-19.57.01:396][323]PIE: Play in editor total start time 0.128 seconds.
+[2025.09.23-19.57.01:463][324]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-19.57.09:888][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-19.57.09:889][826]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.09.23-19.57.09:889][826]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-19.57.09:889][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-19.57.09:889][826]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.09.23-19.57.09:890][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-19.57.09:894][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-19.57.09:912][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-19.57.09:912][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.09.23-19.57.09:912][826]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.09.23-19.57.09:914][826]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.09.23-19.57.09:920][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.23-19.57.09:985][827]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.09.23-19.57.20:948][469]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-19.57.20:953][469]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.23-19.57.20:953][469]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.09.23-19.57.20:954][469]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 789 us (total: 20.559 ms)
+[2025.09.23-19.57.20:954][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-19.57.20:954][469]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.09.23-19.57.20:959][469]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.23-19.57.20:960][469]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.113 ms (total: 29.313 ms)
+[2025.09.23-19.57.20:960][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006578s)
+[2025.09.23-19.57.20:960][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006605s)
+[2025.09.23-19.57.20:985][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.23-19.57.20:986][469]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.09.23-19.57.20:988][469]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.23-19.57.20:988][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.23-19.57.20:988][469]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.23-19.57.20:988][469]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.23-19.57.20:989][469]LogWorldPartition: Display: WorldPartition initialize took 1.506 ms (total: 805.897 ms)
+[2025.09.23-19.57.20:989][469]LogPlayLevel: PIE: World Init took: (0.003107s)
+[2025.09.23-19.57.20:990][469]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-19.57.20:990][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-19.57.20:990][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-19.57.20:990][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-19.57.20:990][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-19.57.20:990][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-19.57.20:992][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-19.57.21:068][469]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.23-19.57.21:068][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-19.57.21:068][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-19.57.21:068][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-19.57.21:069][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.09.23-19.57.21:069][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.09.23-19.57.21:071][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.09.23-19.57.21:071][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.09.23-19.57.21:071][469]LogInit: FAudioDevice initialized with ID 19.
+[2025.09.23-19.57.21:071][469]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lvl_TopDown'.
+[2025.09.23-19.57.21:071][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.23-19.57.21:106][469]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.09.23-19.57.21:108][469]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 60) at 2025.09.23-14.57.21
+[2025.09.23-19.57.21:108][469]LogWorld: Bringing up level for play took: 0.002617
+[2025.09.23-19.57.21:110][469]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.09.23-19.57.21:115][469]PIE: Server logged in
+[2025.09.23-19.57.21:117][469]PIE: Play in editor total start time 0.164 seconds.
+[2025.09.23-19.57.21:164][470]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-19.57.56:189][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-19.57.56:189][568]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.09.23-19.57.56:189][568]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-19.57.56:191][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-19.57.56:191][568]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.09.23-19.57.56:193][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-19.57.56:197][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-19.57.56:223][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-19.57.56:223][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.09.23-19.57.56:223][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.09.23-19.57.56:226][568]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.09.23-19.57.56:235][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.23-19.57.56:301][569]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.09.23-19.58.07:319][215]Cmd: DUPLICATE
+[2025.09.23-19.58.07:319][215]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.58.19:641][935]Cmd: DUPLICATE
+[2025.09.23-19.58.19:641][935]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.58.34:677][817]Cmd: TRANSACTION UNDO
+[2025.09.23-19.58.34:677][817]LogEditorTransaction: Undo Move Elements
+[2025.09.23-19.58.58:247][190]Cmd: DUPLICATE
+[2025.09.23-19.58.58:247][190]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.59.38:176][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.23-19.59.38:182][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-19.59.38:250][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/4/C3/D0EZYD2I35RYCJYQELMAEG
+[2025.09.23-19.59.38:251][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/D0EZYD2I35RYCJYQELMAEG53078D6C4EB9C02634B0D2AF710A4CAA.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/C3/D0EZYD2I35RYCJYQELMAEG.uasset'
+[2025.09.23-19.59.38:260][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/WU/J4MPW2TNSRV04C11AUTYJP
+[2025.09.23-19.59.38:261][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/J4MPW2TNSRV04C11AUTYJP6AD938374E7088DA135331AA204FC666.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/WU/J4MPW2TNSRV04C11AUTYJP.uasset'
+[2025.09.23-19.59.38:269][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/A/XE/MWPGR6RDUANCZ7FYSWD4RK
+[2025.09.23-19.59.38:269][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/MWPGR6RDUANCZ7FYSWD4RKBD1701C74E64016525E131BB5A314C25.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/XE/MWPGR6RDUANCZ7FYSWD4RK.uasset'
+[2025.09.23-19.59.38:277][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/3/KB/B5GH59HTDSPHG8LAQVV83D
+[2025.09.23-19.59.38:277][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/B5GH59HTDSPHG8LAQVV83D586500D14F7E03C17FE44992CCB198A4.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/KB/B5GH59HTDSPHG8LAQVV83D.uasset'
+[2025.09.23-19.59.38:285][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/B/G1/5OA6H5V7EY06QIK3DJD16O
+[2025.09.23-19.59.38:285][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/5OA6H5V7EY06QIK3DJD16O5257C1AC490C96F242D459AC887B5A53.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/G1/5OA6H5V7EY06QIK3DJD16O.uasset'
+[2025.09.23-19.59.38:293][547]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/4/W2/PYV4Z5A62390BLPKWMA04S
+[2025.09.23-19.59.38:293][547]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/PYV4Z5A62390BLPKWMA04S07D253DF4FD142FFC210D4934D819A2A.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/W2/PYV4Z5A62390BLPKWMA04S.uasset'
+[2025.09.23-19.59.38:304][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.324 ms (total: 3.93 sec)
+[2025.09.23-19.59.38:371][547]LogContentValidation: Display: Starting to validate 6 assets
+[2025.09.23-19.59.38:371][547]LogContentValidation: Enabled validators:
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-19.59.38:371][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-19.59.38:372][547]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.23-19.59.38:399][547]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.23-19.59.51:538][329]Cmd: DUPLICATE
+[2025.09.23-19.59.51:538][329]Cmd: ACTOR DUPLICATE
+[2025.09.23-19.59.59:898][820]Cmd: TRANSACTION UNDO
+[2025.09.23-19.59.59:898][820]LogEditorTransaction: Undo Scale Elements
+[2025.09.23-20.00.11:220][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.23-20.00.11:226][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-20.00.11:308][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/3/JA/OD160S3V9YRO72WTZEZ5EF
+[2025.09.23-20.00.11:308][482]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/OD160S3V9YRO72WTZEZ5EFE6DA41AF41A7981CA33EEBB6887C2DCE.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/JA/OD160S3V9YRO72WTZEZ5EF.uasset'
+[2025.09.23-20.00.11:319][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.132 ms (total: 4.02 sec)
+[2025.09.23-20.00.11:388][482]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-20.00.11:388][482]LogContentValidation: Enabled validators:
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-20.00.11:388][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-20.00.11:388][482]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.23-20.00.11:419][482]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
