@@ -2396,3 +2396,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.23-15.06.15:652][716]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2025.09.23-15.06.15:652][716]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
 [2025.09.23-15.06.15:669][716]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.23-15.07.00:197][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
