@@ -1819,3 +1819,172 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.28-20.16.47:008][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.28-20.16.47:008][467]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2025.09.28-20.16.47:041][467]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.28-20.20.33:985][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3570.173584
+[2025.09.28-20.20.34:101][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-20.20.34:101][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3570.273682, Update Interval: 313.649109
+[2025.09.28-20.21.10:097][184]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: ================================================
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Total job queries 534, among them cache hits 63 (11.80%), DDC hits 376 (70.41%), Duplicates 75 (14.04%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Tracking 396 distinct input hashes that result in 295 distinct outputs (74.49%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: RAM used: 4.04 MiB of 1.60 GiB budget. Usage: 0.25%
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Average time worker was idle: 349.70 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 0.85 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 0.94
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Shader code size: total 514.006 KiB, numShaders 20, average 25.7 KiB, min 6.379 KiB, max 45.677 KiB
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.95 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Average processing rate: 3.36 jobs/sec
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Total thread time: 4.155 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Total thread preprocess time: 16.614 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Percentage time preprocessing: 399.82%
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Effective parallelization: 0.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.043651
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   18 times, average 0.19 sec, max 0.42 sec, min 0.06 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                               FNiagaraShader - 81.57% of total time (compiled   18 times, average 0.19 sec, max 0.42 sec, min 0.06 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.77% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.67% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Materials Translated:    151
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: Material Cache Hits: 9 (6%)
+[2025.09.28-20.21.14:984][424]LogShaderCompilers: Display: ================================================
+[2025.09.28-20.21.50:854][501]LogD3D12RHI: Compiled LumenReflectionHardwareRayTracingRGS for RTPSO in 1052.87 ms.
+[2025.09.28-20.21.53:402][501]LogD3D12RHI: Creating RTPSO with 20 shaders (0 cached, 20 new) took 3601.56 ms. Compile time 1053.15 ms, link time 2548.38 ms.
+[2025.09.28-20.22.57:719][269]LogDerivedDataCache: C:/Users/annas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.28-20.26.40:861][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3937.045654
+[2025.09.28-20.26.40:980][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-20.26.40:980][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3937.145996, Update Interval: 335.979492
+[2025.09.28-20.29.50:630][928]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.28-20.29.50:645][928]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.28-20.29.55:572][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.28-20.30.09:148][ 22]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.09:148][ 22]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.09:149][ 22]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_3
+[2025.09.28-20.30.09:149][ 22]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_3
+[2025.09.28-20.30.10:249][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.28-20.30.10:250][ 85]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.09.28-20.30.10:262][ 85]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.10:262][ 85]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.10:267][ 85]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_UAID_745D22856E37559302_1875272690
+[2025.09.28-20.30.10:267][ 85]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_UAID_745D22856E37559302_1875272690
+[2025.09.28-20.30.38:820][766]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.38:820][766]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.38:821][766]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_4
+[2025.09.28-20.30.38:821][766]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_4
+[2025.09.28-20.30.39:975][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.28-20.30.39:977][833]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.09.28-20.30.39:988][833]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.39:988][833]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01
+[2025.09.28-20.30.39:992][833]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_UAID_745D22856E37559302_1904998691
+[2025.09.28-20.30.39:993][833]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 as actor: NiagaraActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.NiagaraActor_UAID_745D22856E37559302_1904998691
+[2025.09.28-20.31.03:552][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.28-20.31.03:558][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-20.31.03:649][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/2/VQ/0JJHVIP0G5XSYZ6HIW0DJR
+[2025.09.28-20.31.03:650][224]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/0JJHVIP0G5XSYZ6HIW0DJRB40894A3416746D6EA7ECFB6DBF2A2E3.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/VQ/0JJHVIP0G5XSYZ6HIW0DJR.uasset'
+[2025.09.28-20.31.03:661][224]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/8I/F24Z1PJ5T3X8VP9C4LRGJP
+[2025.09.28-20.31.03:661][224]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/F24Z1PJ5T3X8VP9C4LRGJP7DD41565439B17153E4F7DBA41231A4F.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/8I/F24Z1PJ5T3X8VP9C4LRGJP.uasset'
+[2025.09.28-20.31.03:676][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.800 ms (total: 1.27 sec)
+[2025.09.28-20.31.03:745][224]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.28-20.31.03:745][224]LogContentValidation: Enabled validators:
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-20.31.03:745][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-20.31.03:745][224]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.09.28-20.31.03:777][224]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.28-20.31.38:178][235]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-20.31.38:201][235]LogTexture: Display: Building textures: /Niagara/DefaultAssets/Templates/Emitters/Minimal.Minimal:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.09.28-20.31.41:109][375]LogNiagara: Compiling System NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 took 1.066211 sec (time since issued).
+[2025.09.28-20.31.41:132][376]LogNiagara: Compiling System NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 took 0.003024 sec (time since issued).
+[2025.09.28-20.31.41:397][385]117804_NS_fire_01_MessageLog: System successfully compiled.
+[2025.09.28-20.32.30:759][248]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.28-20.32.31:380][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.28-20.32.31:385][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.032
+[2025.09.28-20.32.31:385][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FX/NS_fire_01] ([1] browsable assets)...
+[2025.09.28-20.32.31:385][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/NS_fire_01]
+[2025.09.28-20.32.31:487][275]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FX/NS_fire_01_Auto3
+[2025.09.28-20.32.31:489][275]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/NS_fire_01_Auto30CE61C644C340DC6337320ADF8DBD1F0.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/Autosaves/Game/FX/NS_fire_01_Auto3.uasset'
+[2025.09.28-20.32.31:491][275]LogFileHelpers: Auto-saving content packages took 0.107
+[2025.09.28-20.32.50:702][372]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.28-20.32.57:818][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4313.985840
+[2025.09.28-20.32.57:918][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-20.32.57:918][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4314.068359, Update Interval: 353.488586
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: ================================================
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Total job queries 538, among them cache hits 63 (11.71%), DDC hits 376 (69.89%), Duplicates 75 (13.94%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Tracking 400 distinct input hashes that result in 299 distinct outputs (74.75%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: RAM used: 4.12 MiB of 1.60 GiB budget. Usage: 0.25%
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Average time worker was idle: 377.62 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.85 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 0.94
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Shader code size: total 598.599 KiB, numShaders 24, average 24.941 KiB, min 2.668 KiB, max 45.677 KiB
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.61 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Average processing rate: 3.63 jobs/sec
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Total thread time: 4.843 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Total thread preprocess time: 16.617 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Percentage time preprocessing: 343.14%
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.045759
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   22 times, average 0.19 sec, max 0.42 sec, min 0.06 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                               FNiagaraShader - 84.18% of total time (compiled   22 times, average 0.19 sec, max 0.42 sec, min 0.06 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.24% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.58% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Materials Translated:    152
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Material Translation Only: 0.06 s (33%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: Material Cache Hits: 9 (6%)
+[2025.09.28-20.33.15:042][772]LogShaderCompilers: Display: ================================================
+[2025.09.28-20.33.17:122][892]LogNiagara: Compiling System NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 took 0.003035 sec (time since issued).
+[2025.09.28-20.33.17:346][900]117804_NS_fire_01_MessageLog: System successfully compiled.
+[2025.09.28-20.33.19:577][981]LogNiagara: Compiling System NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 took 0.844873 sec (time since issued).
+[2025.09.28-20.33.19:590][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-20.33.19:662][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FX/NS_fire_01] ([1] browsable assets)...
+[2025.09.28-20.33.19:662][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/FX/NS_fire_01]
+[2025.09.28-20.33.19:763][981]LogSavePackage: Moving output files for package: /Game/FX/NS_fire_01
+[2025.09.28-20.33.19:764][981]LogSavePackage: Moving '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Saved/NS_fire_0162BC98F84CD4CA2F69409BA1A98C260B.tmp' to '../../../../../../Users/annas/OneDrive/Desktop/depaul '25/autumn 2025/survey of game engines/GAM210_asienicki-v2/MyProject/Content/FX/NS_fire_01.uasset'
+[2025.09.28-20.33.19:778][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.302 ms (total: 1.46 sec)
+[2025.09.28-20.33.19:980][981]LogNiagara: Compiling System NiagaraSystem /Game/FX/NS_fire_01.NS_fire_01 took 0.201182 sec (time since issued).
+[2025.09.28-20.33.20:052][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-20.33.20:052][981]LogContentValidation: Enabled validators:
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-20.33.20:052][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-20.33.20:053][981]AssetCheck: /Game/FX/NS_fire_01 Validating asset
+[2025.09.28-20.34.12:788][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
