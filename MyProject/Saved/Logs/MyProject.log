@@ -1141,3 +1141,4 @@ LogInit: Object subsystem initialized
 [2025.10.01-18.35.43:641][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -227189215
 [2025.10.01-18.35.43:641][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.908259, Update Interval: 338.165833
 [2025.10.01-18.35.47:384][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.01-18.37.29:070][634]LogDerivedDataCache: C:/Users/annas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
