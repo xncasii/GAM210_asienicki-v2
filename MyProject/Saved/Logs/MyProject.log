@@ -2375,3 +2375,224 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.01-19.49.45:512][ 42]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2025.10.01-19.49.45:534][ 42]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.50.12:294][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Win.BP_Win
+[2025.10.01-19.50.12:294][111]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.01-19.50.44:601][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2932.779541
+[2025.10.01-19.50.44:701][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-19.50.44:701][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2932.863770, Update Interval: 315.764038
+[2025.10.01-19.52.19:916][298]LogSlate: Window 'Pick Root Widget for New Editor Utility Widget' being destroyed
+[2025.10.01-19.52.19:925][298]LogContentBrowser: Deferred new asset file creation: NewEditorUtilityWidgetBlueprint
+[2025.10.01-19.52.19:936][298]LogContentBrowser: Creating deferred item: NewEditorUtilityWidgetBlueprint
+[2025.10.01-19.52.19:950][299]LogContentBrowser: Renaming the item being created (Deferred Item: NewEditorUtilityWidgetBlueprint).
+[2025.10.01-19.52.36:802][300]LogContentBrowser: Attempting asset rename: NewEditorUtilityWidgetBlueprint -> WBP_WinHUD
+[2025.10.01-19.52.36:808][300]LogContentBrowser: End creating deferred item NewEditorUtilityWidgetBlueprint
+[2025.10.01-19.52.44:637][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.01-19.52.44:641][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.52.44:678][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-19.52.44:678][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-19.52.44:678][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-19.52.44:683][763]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-19.52.44:684][763]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win54048F2F4800F1DBEC5A8695878505B1.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-19.52.44:685][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_WinHUD] ([2] browsable assets)...
+[2025.10.01-19.52.44:686][763]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD]
+[2025.10.01-19.52.44:686][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_WinHUD]
+[2025.10.01-19.52.44:686][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_WinHUD" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset" SILENT=true
+[2025.10.01-19.52.44:690][763]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_WinHUD
+[2025.10.01-19.52.44:690][763]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/WBP_WinHUD3C5C79B746622B26F77781B3B2A0081C.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset'
+[2025.10.01-19.52.44:699][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.503 ms (total: 1.14 sec)
+[2025.10.01-19.52.44:746][763]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-19.52.44:746][763]LogContentValidation: Enabled validators:
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.52.44:746][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.52.44:746][763]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-19.52.44:746][763]AssetCheck: /Game/Blueprints/WBP_WinHUD Validating asset
+[2025.10.01-19.52.44:767][763]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.53.35:177][772]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD
+[2025.10.01-19.53.35:177][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.01-19.53.35:182][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.01-19.53.35:188][772]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.01-19.53.40:269][ 55]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.53.40:269][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.53.40:276][ 55]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.53.40:276][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.53.40:323][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.01-19.54.09:261][781]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD
+[2025.10.01-19.54.09:261][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.01-19.54.09:266][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.01-19.54.37:986][487]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.54.37:986][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.54.37:992][487]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.54.37:992][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.54.38:035][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.01-19.55.52:742][960]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD
+[2025.10.01-19.55.52:743][960]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.01-19.55.52:747][960]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.01-19.56.20:233][581]LogSlate: Window 'WBP Win HUD' being destroyed
+[2025.10.01-19.56.57:782][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3305.954590
+[2025.10.01-19.56.57:883][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-19.56.57:883][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3306.037842, Update Interval: 359.000214
+[2025.10.01-19.57.32:695][914]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.01-19.58.37:243][745]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-19.58.49:537][482]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18430136873984740701
+[2025.10.01-19.58.49:537][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.58.49:545][483]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.01-19.58.49:550][483]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.01-19.58.49:550][483]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.01-19.58.49:552][483]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.01-19.58.49:553][483]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.01-19.58.49:892][503]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 21
+[2025.10.01-19.58.49:892][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.58.49:901][504]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.01-19.58.49:906][504]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.01-19.58.49:907][504]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.01-19.58.49:908][504]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.01-19.58.49:909][504]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.01-19.58.50:949][566]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 63
+[2025.10.01-19.58.50:949][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.58.50:957][567]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.01-19.58.50:959][567]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.01-19.58.50:960][567]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.01-19.58.50:962][567]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.01-19.58.50:962][567]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.01-19.59.22:255][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.01-19.59.23:679][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.59.23:710][513]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_WinHUD] ([2] browsable assets)...
+[2025.10.01-19.59.23:712][513]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD]
+[2025.10.01-19.59.23:712][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_WinHUD]
+[2025.10.01-19.59.23:712][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_WinHUD" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset" SILENT=true
+[2025.10.01-19.59.23:716][513]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_WinHUD
+[2025.10.01-19.59.23:716][513]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/WBP_WinHUD425D168B48D5CC78E21ED9ABF664C33B.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset'
+[2025.10.01-19.59.23:724][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.625 ms (total: 1.18 sec)
+[2025.10.01-19.59.23:775][513]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-19.59.23:775][513]LogContentValidation: Enabled validators:
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.59.23:775][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.59.23:776][513]AssetCheck: /Game/Blueprints/WBP_WinHUD Validating asset
+[2025.10.01-19.59.37:548][333]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.01-19.59.37:555][333]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.01-20.00.08:525][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.01-20.00.09:201][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.00.09:225][184]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_WinHUD] ([2] browsable assets)...
+[2025.10.01-20.00.09:227][184]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD]
+[2025.10.01-20.00.09:227][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_WinHUD]
+[2025.10.01-20.00.09:227][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_WinHUD" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset" SILENT=true
+[2025.10.01-20.00.09:231][184]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_WinHUD
+[2025.10.01-20.00.09:232][184]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/WBP_WinHUD4468DBDD42ECEA9C425193BB51B617AC.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset'
+[2025.10.01-20.00.09:238][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.529 ms (total: 1.22 sec)
+[2025.10.01-20.00.09:292][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.00.09:292][184]LogContentValidation: Enabled validators:
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.00.09:292][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.00.09:292][184]AssetCheck: /Game/Blueprints/WBP_WinHUD Validating asset
+[2025.10.01-20.01.19:224][375]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-20.01.41:833][721]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.01-20.01.50:242][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.01-20.01.51:347][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.01.51:391][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_WinHUD] ([2] browsable assets)...
+[2025.10.01-20.01.51:392][279]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD]
+[2025.10.01-20.01.51:392][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_WinHUD]
+[2025.10.01-20.01.51:392][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_WinHUD" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset" SILENT=true
+[2025.10.01-20.01.51:397][279]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_WinHUD
+[2025.10.01-20.01.51:398][279]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/WBP_WinHUD9FBBE42343D18CA82A357BB58841E6DB.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset'
+[2025.10.01-20.01.51:405][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.612 ms (total: 1.28 sec)
+[2025.10.01-20.01.51:441][279]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.01.51:441][279]LogContentValidation: Enabled validators:
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.01.51:441][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.01.51:441][279]AssetCheck: /Game/Blueprints/WBP_WinHUD Validating asset
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: ================================================
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Total job queries 2,673, among them cache hits 692 (25.89%), DDC hits 1,844 (68.99%), Duplicates 111 (4.15%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Tracking 1,870 distinct input hashes that result in 1,187 distinct outputs (63.48%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: RAM used: 12.14 MiB of 3.20 GiB budget. Usage: 0.37%
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Average time worker was idle: 527.09 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.72 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 0.80
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Shader code size: total 396.443 KiB, numShaders 26, average 15.247 KiB, min 2.668 KiB, max 45.677 KiB
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.35 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Average processing rate: 5.98 jobs/sec
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Total thread time: 5.257 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Total thread preprocess time: 29.547 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Percentage time preprocessing: 562.11%
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.075543
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.63 sec, max 0.67 sec, min 0.59 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.22 sec, max 0.27 sec, min 0.18 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.77% of total time (compiled    7 times, average 0.23 sec, max 0.27 sec, min 0.17 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 24.10% of total time (compiled    2 times, average 0.63 sec, max 0.67 sec, min 0.59 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                               FNiagaraShader - 21.97% of total time (compiled   11 times, average 0.10 sec, max 0.19 sec, min 0.03 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.56% of total time (compiled    3 times, average 0.22 sec, max 0.27 sec, min 0.18 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 4.25% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: === Material stats ===
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Materials Translated:    154
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.01-20.01.59:493][762]LogShaderCompilers: Display: ================================================
+[2025.10.01-20.03.30:440][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.01-20.03.31:078][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3699.254883
+[2025.10.01-20.03.31:178][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-20.03.31:178][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3699.337646, Update Interval: 329.986267
+[2025.10.01-20.03.31:669][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.03.31:708][282]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP_WinHUD] ([2] browsable assets)...
+[2025.10.01-20.03.31:709][282]OBJ SavePackage:     Rendered thumbnail for [EditorUtilityWidgetBlueprint /Game/Blueprints/WBP_WinHUD.WBP_WinHUD]
+[2025.10.01-20.03.31:709][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP_WinHUD]
+[2025.10.01-20.03.31:709][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_WinHUD" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset" SILENT=true
+[2025.10.01-20.03.31:714][282]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_WinHUD
+[2025.10.01-20.03.31:714][282]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/WBP_WinHUD82F46C6345C631A3DF264DB2F166ED7B.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/WBP_WinHUD.uasset'
+[2025.10.01-20.03.31:720][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.890 ms (total: 1.33 sec)
+[2025.10.01-20.03.31:758][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.03.31:758][282]LogContentValidation: Enabled validators:
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.03.31:758][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.03.31:759][282]AssetCheck: /Game/Blueprints/WBP_WinHUD Validating asset
+[2025.10.01-20.03.48:293][274]LogDerivedDataCache: C:/Users/ASIENICK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.01-20.04.31:225][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.01-20.04.32:709][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.04.32:765][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-20.04.32:765][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-20.04.32:765][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-20.04.32:771][889]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-20.04.32:771][889]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_WinAB9DFCBB425B4A9D95694A904E5C9A06.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-20.04.32:778][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.853 ms (total: 1.40 sec)
+[2025.10.01-20.04.32:825][889]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.04.32:825][889]LogContentValidation: Enabled validators:
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.04.32:825][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.04.32:825][889]AssetCheck: /Game/Blueprints/BP_Win Validating asset
