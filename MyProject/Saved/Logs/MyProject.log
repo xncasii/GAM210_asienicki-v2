@@ -2249,3 +2249,129 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.01-19.31.42:304][895]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2025.10.01-19.31.42:327][895]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.37.23:905][726]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.01-19.37.23:911][726]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.01-19.37.23:925][727]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.01-19.37.29:082][ 35]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.10.01-19.37.29:082][ 35]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.01-19.37.59:407][ 38]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.01-19.37.59:414][ 38]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.01-19.37.59:421][ 38]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.01-19.37.59:424][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2167.584229
+[2025.10.01-19.37.59:448][ 40]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.01-19.37.59:605][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-19.37.59:605][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2167.686035, Update Interval: 335.508911
+[2025.10.01-19.38.19:722][247]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Win
+[2025.10.01-19.38.19:727][247]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.01-19.38.25:265][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Win.BP_Win
+[2025.10.01-19.38.25:265][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.01-19.44.15:519][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2543.690430
+[2025.10.01-19.44.15:585][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-19.44.15:585][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2543.740479, Update Interval: 332.090210
+[2025.10.01-19.45.55:712][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.01-19.45.57:933][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.45.57:963][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-19.45.57:963][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-19.45.57:963][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-19.45.57:968][578]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-19.45.57:968][578]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win55F690624BE560276C9C78B6548D159D.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-19.45.57:976][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.779 ms (total: 845.350 ms)
+[2025.10.01-19.45.58:012][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-19.45.58:012][578]LogContentValidation: Enabled validators:
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.45.58:012][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.45.58:012][578]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-19.45.58:028][578]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.47.16:671][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Win.BP_Win_C
+[2025.10.01-19.47.16:671][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Win.BP_Win_C
+[2025.10.01-19.47.16:672][278]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Win.BP_Win as actor: BP_Win_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Win_C_0
+[2025.10.01-19.47.16:673][278]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Win.BP_Win as actor: BP_Win_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Win_C_0
+[2025.10.01-19.47.16:675][278]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.01-19.47.18:191][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.01-19.47.18:208][368]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.10.01-19.47.18:214][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Win.BP_Win_C
+[2025.10.01-19.47.18:214][368]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Win.BP_Win_C
+[2025.10.01-19.47.18:216][368]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Win.BP_Win as actor: BP_Win_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Win_C_UAID_4CD7178FA5C6449402_1878928755
+[2025.10.01-19.47.18:217][368]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Win.BP_Win as actor: BP_Win_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_Win_C_UAID_4CD7178FA5C6449402_1878928755
+[2025.10.01-19.48.29:402][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.01-19.48.30:345][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.48.30:396][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-19.48.30:396][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-19.48.30:396][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-19.48.30:400][653]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-19.48.30:400][653]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win503E63624801B065EF5F348A1396D40E.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-19.48.30:407][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.699 ms (total: 908.050 ms)
+[2025.10.01-19.48.30:465][653]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-19.48.30:465][653]LogContentValidation: Enabled validators:
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.48.30:465][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.48.30:465][653]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-19.48.31:616][722]LogSlate: Window 'BP_Win' being destroyed
+[2025.10.01-19.48.31:621][722]LogSlate: Window 'BP_Win' being destroyed
+[2025.10.01-19.48.31:625][722]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.48.31:625][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.48.31:675][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.01-19.48.39:744][197]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Win.BP_Win
+[2025.10.01-19.48.39:745][197]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.01-19.48.56:425][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.01-19.48.57:505][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.48.57:550][216]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-19.48.57:550][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-19.48.57:550][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-19.48.57:554][216]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-19.48.57:555][216]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win70DD36614FB0A2559832D380C01920FB.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-19.48.57:561][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.446 ms (total: 964.497 ms)
+[2025.10.01-19.48.57:620][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-19.48.57:620][216]LogContentValidation: Enabled validators:
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.48.57:620][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.48.57:620][216]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-19.49.34:035][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.01-19.49.34:940][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.49.34:982][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-19.49.34:982][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-19.49.34:982][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-19.49.34:986][427]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-19.49.34:987][427]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win1986822B49B4BCDC368797972E32AEAD.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-19.49.34:993][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.541 ms (total: 1.01 sec)
+[2025.10.01-19.49.35:049][427]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-19.49.35:049][427]LogContentValidation: Enabled validators:
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.49.35:049][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.49.35:049][427]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-19.49.35:686][465]LogSlate: Window 'BP_Win' being destroyed
+[2025.10.01-19.49.35:690][465]LogSlate: Window 'BP_Win' being destroyed
+[2025.10.01-19.49.35:694][465]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-19.49.35:694][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-19.49.35:739][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.01-19.49.45:402][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.01-19.49.45:405][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.49.45:466][ 42]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W
+[2025.10.01-19.49.45:466][ 42]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/917SEDJTH462OFZ7PPOV9W3A9D3D2F486F53BC7ED3E7939A5993A8.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W.uasset'
+[2025.10.01-19.49.45:474][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.261 ms (total: 1.08 sec)
+[2025.10.01-19.49.45:511][ 42]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: Enabled validators:
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.49.45:512][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.49.45:512][ 42]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-19.49.45:534][ 42]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
