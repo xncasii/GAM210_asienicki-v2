@@ -2931,3 +2931,137 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.01-20.17.56:982][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.10.01-20.17.56:984][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2025.10.01-20.17.57:036][812]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.10.01-20.20.37:188][773]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:205][774]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:205][774]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:205][774]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:221][775]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:222][775]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:222][775]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:238][776]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.37:238][776]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:405][846]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:422][847]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:423][847]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:423][847]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:438][848]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:439][848]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:439][848]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:455][849]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.20.38:455][849]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Win_C_0.SM_PlayerTorch has a component set to zero, which will result in a bad body instance. Scale:X=0.625 Y=0.250 Z=0.000
+[2025.10.01-20.21.24:634][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.01-20.21.25:466][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.21.25:521][623]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-20.21.25:529][623]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Win.BP_Win]
+[2025.10.01-20.21.25:529][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-20.21.25:529][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-20.21.25:535][623]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-20.21.25:535][623]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_WinF67B503849282E94FC5F538490244D8A.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-20.21.25:541][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.045 ms (total: 1.89 sec)
+[2025.10.01-20.21.25:571][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.21.25:571][623]LogContentValidation: Enabled validators:
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.21.25:571][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.21.25:571][623]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-20.22.00:584][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4808.604492
+[2025.10.01-20.22.00:652][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-20.22.00:652][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4808.654785, Update Interval: 355.517456
+[2025.10.01-20.22.08:976][174]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.01-20.22.20:199][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.01-20.22.20:204][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.22.20:239][818]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W
+[2025.10.01-20.22.20:240][818]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/917SEDJTH462OFZ7PPOV9WE1F05E70478B0A2008F47E8BDA5F59F7.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W.uasset'
+[2025.10.01-20.22.20:241][818]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-20.22.20:248][818]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Win.BP_Win]
+[2025.10.01-20.22.20:248][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-20.22.20:248][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-20.22.20:254][818]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-20.22.20:255][818]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_WinA7974C324EAE108F445B699FC3851DA2.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-20.22.20:261][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.574 ms (total: 1.95 sec)
+[2025.10.01-20.22.20:304][818]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.01-20.22.20:304][818]LogContentValidation: Enabled validators:
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.22.20:304][818]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.22.20:304][818]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-20.22.20:304][818]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-20.22.21:164][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.01-20.23.31:032][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.01-20.23.31:036][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.23.31:073][ 38]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W
+[2025.10.01-20.23.31:073][ 38]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/917SEDJTH462OFZ7PPOV9WD6DED78A40F2908DEC163AAAE6B6D666.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W.uasset'
+[2025.10.01-20.23.31:074][ 38]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-20.23.31:081][ 38]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Win.BP_Win]
+[2025.10.01-20.23.31:081][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-20.23.31:081][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-20.23.31:088][ 38]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-20.23.31:089][ 38]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_WinE24C675C46B2FD6E46FD3DA5AA3DD521.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-20.23.31:095][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.495 ms (total: 2.01 sec)
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: Enabled validators:
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.23.31:137][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.23.31:137][ 38]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-20.23.31:137][ 38]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-20.23.31:910][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.01-20.23.35:742][297]Cmd: TRANSACTION UNDO
+[2025.10.01-20.23.35:742][297]LogEditorTransaction: Undo Move Elements
+[2025.10.01-20.23.38:612][447]Cmd: TRANSACTION UNDO
+[2025.10.01-20.23.38:612][447]LogEditorTransaction: Undo Move Elements
+[2025.10.01-20.25.17:762][280]LogEditorTransaction: Undo Duplicate Component
+[2025.10.01-20.25.31:036][ 40]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.01-20.25.32:071][ 78]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.01-20.25.32:712][111]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.01-20.26.12:248][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.01-20.26.12:928][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.26.12:971][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Win] ([2] browsable assets)...
+[2025.10.01-20.26.12:979][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Win.BP_Win]
+[2025.10.01-20.26.12:979][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Win]
+[2025.10.01-20.26.12:979][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Win" FILE="../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset" SILENT=true
+[2025.10.01-20.26.12:986][483]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Win
+[2025.10.01-20.26.12:986][483]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/BP_Win375FA35C4F355EA8E0CE5282C3A9D80B.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/Blueprints/BP_Win.uasset'
+[2025.10.01-20.26.12:993][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.226 ms (total: 2.08 sec)
+[2025.10.01-20.26.13:036][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-20.26.13:036][483]LogContentValidation: Enabled validators:
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.26.13:036][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.26.13:036][483]AssetCheck: /Game/Blueprints/BP_Win Validating asset
+[2025.10.01-20.26.53:705][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.01-20.26.53:711][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W_Auto2
+[2025.10.01-20.26.53:711][857]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/917SEDJTH462OFZ7PPOV9W_Auto29EC86A704CDE78F28CCC4E8404F6B4B9.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/Autosaves/Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W_Auto2.uasset'
+[2025.10.01-20.26.53:712][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.026
+[2025.10.01-20.26.53:712][857]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.10.01-20.27.30:581][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.01-20.27.30:585][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-20.27.30:623][ 58]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/9M/9GIXY2PAK9WSXN434FNRMX
+[2025.10.01-20.27.30:623][ 58]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/9GIXY2PAK9WSXN434FNRMXE96E0C9748B120F01662029DEC49ADB6.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/9M/9GIXY2PAK9WSXN434FNRMX.uasset'
+[2025.10.01-20.27.30:625][ 58]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/8I/F24Z1PJ5T3X8VP9C4LRGJP
+[2025.10.01-20.27.30:627][ 58]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/F24Z1PJ5T3X8VP9C4LRGJPE7710AE449C8BCAFCD953D95E17E1BD0.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/8I/F24Z1PJ5T3X8VP9C4LRGJP.uasset'
+[2025.10.01-20.27.30:630][ 58]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W
+[2025.10.01-20.27.30:631][ 58]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/917SEDJTH462OFZ7PPOV9W550B0B1F490127077FFC26808C86E5F4.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/OX/917SEDJTH462OFZ7PPOV9W.uasset'
+[2025.10.01-20.27.30:637][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.687 ms (total: 2.13 sec)
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: Display: Starting to validate 7 assets
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: Enabled validators:
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-20.27.30:669][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-20.27.30:669][ 58]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-20.27.30:684][ 58]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
