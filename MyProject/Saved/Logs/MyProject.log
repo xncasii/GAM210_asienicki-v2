@@ -2180,3 +2180,72 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.01-19.26.45:057][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.01-19.26.45:057][104]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
 [2025.10.01-19.26.45:071][105]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.27.20:361][335]Cmd: TRANSACTION UNDO
+[2025.10.01-19.27.20:361][335]LogEditorTransaction: Undo Rotate Elements
+[2025.10.01-19.27.20:736][343]Cmd: TRANSACTION UNDO
+[2025.10.01-19.27.20:736][343]LogEditorTransaction: Undo Move Elements
+[2025.10.01-19.28.45:425][391]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-19.29.12:101][980]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-19.29.19:173][390]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-19.29.47:022][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.01-19.29.51:959][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.01-19.29.51:968][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.29.52:023][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/H7/HXHBY8XB24FN2PZ9N5HJNL
+[2025.10.01-19.29.52:024][342]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/HXHBY8XB24FN2PZ9N5HJNL683B2EE64C66894FABF9B3B3ACD00603.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/H7/HXHBY8XB24FN2PZ9N5HJNL.uasset'
+[2025.10.01-19.29.52:027][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/3/3W/KVKK3JZ9YOQDKZN4SA819U
+[2025.10.01-19.29.52:027][342]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/KVKK3JZ9YOQDKZN4SA819UB27C6486470A8C4270E74385F235A66E.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/3W/KVKK3JZ9YOQDKZN4SA819U.uasset'
+[2025.10.01-19.29.52:030][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/XA/AKS4QGDKLNT2ECMCM0OSYJ
+[2025.10.01-19.29.52:030][342]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/AKS4QGDKLNT2ECMCM0OSYJC9D2216F467BB1255044FBAE1FBAB299.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/XA/AKS4QGDKLNT2ECMCM0OSYJ.uasset'
+[2025.10.01-19.29.52:035][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.640 ms (total: 712.073 ms)
+[2025.10.01-19.29.52:087][342]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.01-19.29.52:087][342]LogContentValidation: Enabled validators:
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.29.52:087][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.29.52:087][342]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-19.29.52:101][342]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.30.27:170][428]Cmd: EDIT COPY
+[2025.10.01-19.30.29:653][576]Cmd: EDIT PASTE
+[2025.10.01-19.30.46:077][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.01-19.30.46:083][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.30.46:122][554]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/5/PY/GZJKFIX1WTFE8U33MDBHEK
+[2025.10.01-19.30.46:122][554]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/GZJKFIX1WTFE8U33MDBHEK34DC5D894B7DA6DDC4EB6DB7AC580AC6.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/5/PY/GZJKFIX1WTFE8U33MDBHEK.uasset'
+[2025.10.01-19.30.46:125][554]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/4/1V/J27RJ6KUTF9Y9JR94EEANJ
+[2025.10.01-19.30.46:125][554]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/J27RJ6KUTF9Y9JR94EEANJ415346E14B8FA271AE91BB82276A6672.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/4/1V/J27RJ6KUTF9Y9JR94EEANJ.uasset'
+[2025.10.01-19.30.46:131][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.411 ms (total: 760.485 ms)
+[2025.10.01-19.30.46:184][554]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-19.30.46:185][554]LogContentValidation: Enabled validators:
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.30.46:185][554]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.30.46:185][554]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-19.30.46:206][554]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.01-19.31.27:850][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1776.012695
+[2025.10.01-19.31.27:949][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-19.31.27:949][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1776.096191, Update Interval: 331.573853
+[2025.10.01-19.31.29:528][144]Cmd: EDIT PASTE
+[2025.10.01-19.31.42:204][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.01-19.31.42:209][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-19.31.42:237][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/Y1/THALKG75QKZODC4ACYWE0B
+[2025.10.01-19.31.42:237][895]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/THALKG75QKZODC4ACYWE0BEA4EAEE14600001ECBE3D38C1BDC3CFD.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/Y1/THALKG75QKZODC4ACYWE0B.uasset'
+[2025.10.01-19.31.42:240][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/0/3L/9ZWWZYF2Z3VAKLTKS7KN2X
+[2025.10.01-19.31.42:240][895]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/9ZWWZYF2Z3VAKLTKS7KN2XF1D5DB3A4CB7F273E7F7A7882EC6EFE8.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/3L/9ZWWZYF2Z3VAKLTKS7KN2X.uasset'
+[2025.10.01-19.31.42:243][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/1Z/AAJ23TRH5968YURKID94KT
+[2025.10.01-19.31.42:243][895]LogSavePackage: Moving '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/AAJ23TRH5968YURKID94KT20B9E37741725AD95E1E58B9BF443B95.tmp' to '../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/1Z/AAJ23TRH5968YURKID94KT.uasset'
+[2025.10.01-19.31.42:250][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.085 ms (total: 801.571 ms)
+[2025.10.01-19.31.42:304][895]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.01-19.31.42:304][895]LogContentValidation: Enabled validators:
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-19.31.42:304][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-19.31.42:304][895]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.10.01-19.31.42:327][895]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/ASIENICK/Documents/GitHub/GAM210_asienicki-v2/MyProject/Saved/SourceControl/UncontrolledChangelists.json
